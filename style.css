@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background: linear-gradient(to left bottom,lightgreen,lightblue);
+    background: linear-gradient(to left bottom,lightgreen,lightpink,lightblue);
     min-height:100vh;
     display:flex;
     justify-content: center;
@@ -14,7 +14,7 @@ body{
     border-radius: 15px;
     width:80%;
     text-align: center;
-    color:brown;
+    color:green;
 }
 .heading{
     font-size: 35px;
@@ -38,7 +38,7 @@ body{
    border-color:rgba(255, 255, 255,.6);
    text-transform: uppercase;
    width:300px;
-   color:brown;
+   color:red;
 }
 .btn:hover{
    background-color:rgba(255, 255, 255,.5);
